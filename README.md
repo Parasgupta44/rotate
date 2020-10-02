@@ -42,6 +42,6 @@ The image needs to have N x N dimensions where N is a power of 2. If these requi
 
 ### Examples
 
-```
 ![demo_gif](./demo.gif)
-```
+
+--------------
